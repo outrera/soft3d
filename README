@@ -1,0 +1,1 @@
+Library for rendering gouraud shaded, textured triangles, with z-buffer and MMX acceleration (wont work on 64-bit x86). My first attempt at 3D and x86 assembly. Includes software version of Stars example from NeHe OpenGL tutorials.
